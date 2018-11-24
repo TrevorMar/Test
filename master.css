@@ -1,0 +1,52 @@
+.image {
+    height: 300px;
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    background-size: cover;
+    background-position: center center;
+}
+p {
+  font-family: raleway;
+  margin-left: 1.66%;
+  font-size: 23px;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+  padding-bottom: 20px;
+  margin-top: 25px;
+}
+.image1 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2017/10/20170713Vancouver771.jpg);
+}
+
+.image2 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2017/10/20170818untitled-shoot1420.jpg);
+}
+
+.image3 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2017/10/20170818untitled-shoot1520.jpg);
+}
+.image4 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2017/10/20170819untitled-shoot1297.jpg);
+}
+
+.image5 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2018/06/2176.jpg);
+}
+
+.image6 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2018/09/DSC6175.jpg);
+}
+.image7 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2017/10/DSC2456.jpg);
+}
+
+.image8 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2017/10/DSC5768.jpg);
+}
+
+.image9 {
+    background-image: url(https://www.trevormarshall.ca/wp-content/uploads/2017/10/20170715Vancouver950.jpg);
+}
